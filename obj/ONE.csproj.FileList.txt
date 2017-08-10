@@ -1,0 +1,10 @@
+obj\Debug\ONE.exe
+obj\Debug\ONE.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ONE.Form1.resources
+obj\Debug\ONE.Form2.resources
+obj\Debug\ONE.Properties.Resources.resources
+obj\Debug\ONE.csproj.GenerateResource.Cache
+bin\Debug\ONE.exe
+bin\Debug\ONE.pdb
+obj\Debug\ONE.Form3.resources

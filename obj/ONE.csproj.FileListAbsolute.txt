@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\ONE\ONE\bin\Debug\ONE.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\ONE\ONE\bin\Debug\ONE.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\ONE\ONE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\ONE\ONE\obj\Debug\ONE.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\ONE\ONE\obj\Debug\ONE.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\ONE\ONE\obj\Debug\ONE.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\ONE\ONE\obj\Debug\ONE.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\ONE\ONE\obj\Debug\ONE.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\ONE\ONE\obj\Debug\ONE.Form2.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\ONE\ONE\obj\Debug\ONE.Form3.resources
