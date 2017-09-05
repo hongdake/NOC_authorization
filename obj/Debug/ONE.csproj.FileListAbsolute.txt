@@ -244,3 +244,5 @@ D:\hdk\ONEv13_20170810（增加mac下拉2）\obj\Debug\ONE.Form2.resources
 D:\hdk\ONEv13_20170810（增加mac下拉2）\obj\Debug\ONE.Form3.resources
 D:\hdk\ONEv13_20170810（增加mac下拉2）\obj\Debug\ONE.Properties.Resources.resources
 D:\hdk\ONEv13_20170810（增加mac下拉2）\obj\Debug\ONE.csproj.GenerateResource.Cache
+D:\NOC_authorization\obj\Debug\ONE.exe
+D:\NOC_authorization\obj\Debug\ONE.pdb
