@@ -246,3 +246,11 @@ D:\hdk\ONEv13_20170810（增加mac下拉2）\obj\Debug\ONE.Properties.Resources.
 D:\hdk\ONEv13_20170810（增加mac下拉2）\obj\Debug\ONE.csproj.GenerateResource.Cache
 D:\NOC_authorization\obj\Debug\ONE.exe
 D:\NOC_authorization\obj\Debug\ONE.pdb
+D:\NOC_authorization\bin\Debug\ONE.exe
+D:\NOC_authorization\bin\Debug\ONE.pdb
+D:\NOC_authorization\obj\Debug\ONE.csprojResolveAssemblyReference.cache
+D:\NOC_authorization\obj\Debug\ONE.Form1.resources
+D:\NOC_authorization\obj\Debug\ONE.Form2.resources
+D:\NOC_authorization\obj\Debug\ONE.Form3.resources
+D:\NOC_authorization\obj\Debug\ONE.Properties.Resources.resources
+D:\NOC_authorization\obj\Debug\ONE.csproj.GenerateResource.Cache

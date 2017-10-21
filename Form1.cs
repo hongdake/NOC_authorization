@@ -937,27 +937,7 @@ namespace ONE
                     }
                     break;
 
-                case "批量标清交互机顶盒授权": while (strLine != null)
-                    {
-                        MacTxt += "modify clientclass STB_CPE\r\n" + "add clientclassentry " + strLine + "\r\n" + 
-
-"save\r\n" + "exit\r\n";
-                        strsInss[ins] = strLine;
-                        ins++;
-                        strLine = MacListFileReader.ReadLine();
-                    }
-                    break;
-
-                case "批量删除标清交互机顶盒授权": while (strLine != null)
-                    {
-                        MacTxt += "modify clientclass STB_CPE\r\n" + "delete clientclassentry " + strLine + "\r\n" + 
-
-"save\r\n" + "exit\r\n";
-                        strsInss[ins] = strLine;
-                        ins++;
-                        strLine = MacListFileReader.ReadLine();
-                    }
-                    break;
+               
 
                 case "批量高清交互机顶盒授权": while (strLine != null)
                     {
@@ -988,6 +968,37 @@ namespace ONE
                         strLine = MacListFileReader.ReadLine();
                     }
                     break;
+
+                case "批量D100": while (strLine != null)
+                    {
+                        MacTxt += "modify clientclass STB_D50\r\n" + "add clientclassentry " + strLine + "\r\n" +
+
+"save\r\n" + "exit\r\n";
+                        //MacTxt1 += "modify clientclass HDSTB_CM\r\n" + "add clientclassentry " + strLine + "\r\n" +
+
+                        //"save\r\n" + "exit\r\n";
+                        //yon2 = 1;
+                        strsInss[ins] = strLine;
+                        ins++;
+                        strLine = MacListFileReader.ReadLine();
+                    }
+                    break;
+
+                case "批量删除D100": while (strLine != null)
+                    {
+                        MacTxt += "modify clientclass STB_D50\r\n" + "delete clientclassentry " + strLine + "\r\n" +
+
+"save\r\n" + "exit\r\n";
+                        //MacTxt1 += "modify clientclass HDSTB_CM\r\n" + "delete clientclassentry " + strLine + "\r\n" +
+
+                        //"save\r\n" + "exit\r\n";
+                        //yon2 = 1;
+                        strsInss[ins] = strLine;
+                        ins++;
+                        strLine = MacListFileReader.ReadLine();
+                    }
+                    break;
+
                 case "批量天宝高清机顶盒授权": while (strLine != null)
                     {
                         MacTxt += "modify clientclass HDSTB_CM\r\n" + "add clientclassentry " + strLine + "\r\n" +
